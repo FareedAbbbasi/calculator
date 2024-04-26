@@ -1,0 +1,3 @@
+C:/Users/Folio 9480m/calculationuniversity1/cmake-build-debug/CMakeFiles/calculationuniversity1.dir
+C:/Users/Folio 9480m/calculationuniversity1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Folio 9480m/calculationuniversity1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
